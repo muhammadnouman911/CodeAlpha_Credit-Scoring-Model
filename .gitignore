@@ -5,5 +5,4 @@ __pycache__/
 .venv/
 env/
 venv/
-outputs/*.png
-data/*.csv
+# Removed outputs/ and data/ to include them as requested
