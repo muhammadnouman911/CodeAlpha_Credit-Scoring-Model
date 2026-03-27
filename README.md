@@ -76,4 +76,3 @@ python main.py
 After execution, results will be available in the `outputs/` directory.
 
 ---
-*Created as part of the CodeAlpha Internship project.*
